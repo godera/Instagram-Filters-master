@@ -7,6 +7,7 @@
 //
 
 #import "InstaFilters.h"
+#import <AVFoundation/AVFoundation.h>
 
 @interface IFVideoCamera ()
 
